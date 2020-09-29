@@ -1,5 +1,3 @@
-//Thinzar Htet 180295461
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
